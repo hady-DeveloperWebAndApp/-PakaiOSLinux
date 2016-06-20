@@ -1,4 +1,5 @@
 # -PakaiOSLinux
+informasi jika anggota menggunakan OS Linux
 
 Cara melihat slide di komputer lokal
 
